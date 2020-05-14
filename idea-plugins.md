@@ -26,14 +26,6 @@
 
 插件名称：IntelliJ Lombok plugin
 
-功能简介：支持[Lombok](https://juejin.im/post/5cf3edf7e51d454f71439c79)。
-
-[信息来源](https://github.com/xiaoxiunique/tool-tips/blob/master/IDEA%20%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.md)
-
----
-
-插件名称：IntelliJ Lombok plugin
-
 功能简介：安装后可以在mapper层接口直接进入xml文件中，节省开发时间。
 
 [信息来源](https://github.com/xiaoxiunique/tool-tips/blob/master/IDEA%20%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E6%8F%92%E4%BB%B6.md)
@@ -69,3 +61,27 @@
 功能简介：帮助检测项目中哪些依赖的jar包冲突
 
 [信息来源](https://segmentfault.com/a/1190000017542396)
+
+--- 
+
+插件名称：RestfulToolkit
+
+功能简介：提供了项目中的接口概览信息，可以根据URL跳转到对应的接口方法中去，内置了HTTP请求工具，对请求方法做了一些增强功能
+
+[信息来源](https://juejin.im/post/5eba9a5bf265da7bca50010c)
+
+--- 
+
+插件名称：Grep Console
+
+功能简介：可以对不同级别的日志进行不同颜色的高亮显示，按关键字搜索日志内容
+
+[信息来源](https://juejin.im/post/5eba9a5bf265da7bca50010c)
+
+--- 
+
+插件名称：Statistic
+
+功能简介：代码统计工具，可以用来统计当前项目中代码的行数和大小
+
+[信息来源](https://juejin.im/post/5eba9a5bf265da7bca50010c)
