@@ -85,3 +85,11 @@
 功能简介：代码统计工具，可以用来统计当前项目中代码的行数和大小
 
 [信息来源](https://juejin.im/post/5eba9a5bf265da7bca50010c)
+
+--- 
+
+插件名称：WakaTime
+
+功能简介：统计写代码的时长，统计代码行数，并以图表的方式可视化展现
+
+[信息来源](https://mp.weixin.qq.com/s/nijIl7gXQky7BswB4yOERQ)
