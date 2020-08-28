@@ -92,4 +92,6 @@
 
 功能简介：统计写代码的时长，统计代码行数，并以图表的方式可视化展现
 
+个人评价：太邪恶了！！推荐给各位老板！
+
 [信息来源](https://mp.weixin.qq.com/s/nijIl7gXQky7BswB4yOERQ)
